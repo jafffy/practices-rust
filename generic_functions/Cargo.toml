@@ -1,0 +1,6 @@
+[package]
+name = "generic_functions"
+version = "0.1.0"
+authors = ["Jaewon Choi <jaewon.james.choi@gmail.com>"]
+
+[dependencies]
